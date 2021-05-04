@@ -1,3 +1,9 @@
+# Trabalhando com components em reactjs
+
+Este projeto é uma simples introdução de react 
+
+#### Mestre ( Nathally Souza )
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
